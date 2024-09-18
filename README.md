@@ -1,3 +1,4 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abs6187.Abs6187" />
 ## Hi there 👋
 
 # Abhay Gupta
