@@ -1,9 +1,24 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Abs6187.Abs6187" />
-## Hi there 👋
 
-# Abhay Gupta
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abhay+Gupta!;" />
+</h1>
+
 
 Welcome to the **Abhay Gupta** repository! This is the central hub for all the projects, resources, and contributions related to **Abhay Gupta**, a passionate software engineer, mentor, and community builder in the tech domain.
+ </div>
+ 
+<div align="center"> 
+  <a href="mailto:contact2abhaygupta6187@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz](https://www.linkedin.com/in/abhay-gupta-197b17264" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <!--<a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options </a> -->
+  
+</div>
 
 ---
 
@@ -12,6 +27,16 @@ Welcome to the **Abhay Gupta** repository! This is the central hub for all the p
 I am a highly motivated and dedicated individual with deep expertise in the fields of **Artificial Intelligence**, **Software Development**, and **Computer Science Engineering**. My mission is to provide knowledge and guidance in technology-related fields, with a focus on computer science, engineering, and career development.
 
 I offer tutoring in all subjects related to Computer Science Engineering, Computer Science, Reasoning, and Aptitude. Through this repository, I aim to share my work, knowledge, and resources with the community to help others grow and achieve their goals.
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+<br/>
+<hr/>
 
 ---
 
