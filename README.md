@@ -15,6 +15,9 @@ Welcome to the **Abhay Gupta** repository! This is the central hub for all the p
   <a href="https://linkedin.com/in/abhay-gupta-197b17264](https://www.linkedin.com/in/abhay-gupta-197b17264" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
+  <a href="https://huggingface.co/Abs6187" target="_blank">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" target="_blank" />
+  </a>
 
 <a href="https://linktr.ee/Abhay_Gupta_6187](https://linktr.ee/Abhay_Gupta_6187" target="_blank">
 <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"/>
@@ -78,6 +81,7 @@ An AI-powered smart learning pathfinder that helps users discover personalized e
 9. **Suspicious Activity Detector App** [Link](https://huggingface.co/spaces/Abs6187/Suspicious-Activity-Detector-App)  
    An AI-powered application to identify suspicious activities in video feeds. This project is aimed at enhancing security by detecting and flagging unusual behaviors in real-time.
 10. **Reducing Urban Food Waste with Smart Management Solutions**  [Link](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects)
+
     Developed for Mastek Project DeepBlue Season 10 Hackathon, this solution leverages GenAI, ML, and IoT technologies to monitor food inventory, predict event dates, and facilitate redistribution of surplus food to local charities.
 
 ---
