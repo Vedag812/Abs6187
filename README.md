@@ -49,7 +49,7 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 Here are some of the key projects I have worked on:
 
 1. **Smart India Hackathon 2024 (SIH)**: Developed an AI-driven system for detecting and managing crop diseases using image analysis and environmental data.  
-   - [Team Agro-AId](#) | Project ID: PS1638
+   - [Team Agro-AId](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects/) | Project ID: PS1638
 
 2. **Smart India Hackathon 2023 (SIH)**: Developed an AI Chatbot Justice System.
 
@@ -58,6 +58,18 @@ Here are some of the key projects I have worked on:
 4. **Coding Ninja Problems of the Day POTD**: POTD of Coding Ninjas Repository.
 
 5. **JARVIS PYTHON ASSISTANT**: Repository Jarvis python Assistant
+
+6. **Helmet Detection Model**[Link](https://huggingface.co/spaces/Abs6187/Helmet-Detect-model)  
+A machine learning model designed to detect whether a person is wearing a helmet in images or video feeds. This project aims to promote safety by leveraging AI to identify compliance with helmet-wearing regulations.
+
+7. **EduPath Explorer**[Link](https://huggingface.co/spaces/Abs6187/EduPath_Explorer)  
+An AI-powered smart learning pathfinder that helps users discover personalized educational courses tailored to their goals and interests, with a focus on intuitive design and accurate recommendations.
+
+8. **Movie Recommendation System** [Link](https://huggingface.co/spaces/Abs6187/Movie-Recommendation-System)  
+   A personalized movie recommendation system that uses collaborative filtering and advanced algorithms to suggest movies based on user preferences and viewing history.
+
+9. **Suspicious Activity Detector App** [Link](https://huggingface.co/spaces/Abs6187/Suspicious-Activity-Detector-App)  
+   An AI-powered application to identify suspicious activities in video feeds. This project is aimed at enhancing security by detecting and flagging unusual behaviors in real-time.
 
 ---
 
