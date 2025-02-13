@@ -126,8 +126,10 @@ An AI-powered smart learning pathfinder that helps users discover personalized e
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
 </picture>
+
+
 ## 🔗 Connect with Me
 - **YouTube**: [Abhay Gupta](https://www.youtube.com/AbhayGupta)
 
