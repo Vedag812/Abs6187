@@ -131,7 +131,7 @@ An AI-powered smart learning pathfinder that helps users discover personalized e
 
 
 ## 🔗 Connect with Me
-- **YouTube**: [Abhay Gupta](https://www.youtube.com/AbhayGupta)
+- **YouTube**: [Abhay Gupta](https://www.youtube.com/@BingeWatcher247)
 
 ---
 
