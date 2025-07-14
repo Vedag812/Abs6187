@@ -28,6 +28,11 @@ Welcome to the **Abhay Gupta** repository! This is the central hub for all the p
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
+</picture>
 
 ## 📌 About Abhay Gupta
 
@@ -178,11 +183,6 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 - **LinkedIn**: [Abhay Gupta](https://www.linkedin.com/in/abhay-gupta)
 - **GitHub**: [Abhay Gupta](https://github.com/abhaygupta) -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Abs6187/Abs6187/output/github-snake.svg" />
-</picture>
 
 
 ## 🔗 Connect with Me
