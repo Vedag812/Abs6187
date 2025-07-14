@@ -49,40 +49,95 @@ I offer tutoring in all subjects related to Computer Science Engineering, Comput
 
 ## 🛠️ Projects
 
-Here are some of the key projects I have worked on:
+# Key Projects Portfolio
 
-1. **Smart India Hackathon 2024 (SIH)**: Developed an AI-driven system for detecting and managing crop diseases using image analysis and environmental data.  
-   - [Team Agro-AId](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects/) | Project ID: PS1638
+## Hackathon & Competition Projects
 
-2. **Smart India Hackathon 2023 (SIH): AI Chatbot Justice System**  
-   [Video Link](https://www.youtube.com/watch?v=sqlD7Oo4Hls)  
-   Developed an AI-powered chatbot system to streamline justice delivery and provide quick legal solutions. Created for the prestigious Smart India Hackathon 2023.
+### 1. **AgentX Travel India: AI-powered Travel Assistant Application**[1]
+**Team Lead — TechMatrix Solvers | HackByte 3.0 - IIITDMJ | April 2025**
+- Developed an AI-powered travel assistant application targeting the $1.4 trillion travel market
+- Implemented a multi-agent system with AI-powered itinerary generation, geo-based attraction search, and chat-bot assistant with MCP (Model Context Protocol) Servers
+- Created responsive design with downloadable itineraries and deployed on Hugging Face Spaces
+- **Technologies**: Gemini API, MongoDB Atlas, Cloudflare AI SDK, Hugging Face, GitHub, Postman
+- **Links**: [Live Demo](https://huggingface.co/spaces/Abs6187/AgentX-Travel-India) | [GitHub Repository](https://github.com/Abs6187/AgentX-Travel-India) | [Presentation Video](https://www.youtube.com/watch?v=example)
 
-3. **NETFLIX Live Streaming Technology**  
-    [Repository Link](https://www.linkedin.com/pulse/how-live-streaming-technology-works-hotstars-52-crores-abhay-gupta-osagf/?trackingId=ux82rdg6SgOcSg8SXa8oew%3D%3D)  
-    A comprehensive ARTICLE explaining the technologies and architecture behind live streaming platforms like Hotstar and Netflix.
+### 2. **ReelsPRO – Positive. Responsible. Original**[1]
+**ML & Full-Stack Developer | HackSRIT'25 | May 2025**
+- **🏆 1st Prize Winner** with ₹15,000 prize money
+- Built content moderation platform to limit explicit content across the web
+- Deep AI integration: automatic tagging, moderation, and personalized feeds
+- Seamless drag-and-drop uploads and real-time media optimization via ImageKit
+- **Tech Stack**: Next.js 15, React 19, TypeScript, Tailwind CSS, Daisy UI, nsfwjs, MongoDB, NextAuth.JS, JWT, ImageKit.io
+- **Demo Links**: [Part 1: Introduction & Features](https://www.youtube.com/watch?v=example) | [Part 2: Special Features](https://www.youtube.com/watch?v=example)
 
-4. **Coding Ninjas Problems of the Day (POTD)**  
-    [Repository Link](https://www.linkedin.com/posts/abhay-gupta-197b17264_ninjaslaygroung-codingninjas-keepcoding-activity-7271234045030621185-oU9I?utm_source=share&utm_medium=member_desktop)  
-    A curated collection of daily programming problems (POTD) from Coding Ninjas, aimed at improving problem-solving skills.
+### 3. **Smart India Hackathon 2024 (SIH): Agro-AId**
+**AI-Driven Crop Disease Detection System | Project ID: PS1638**
+- Developed an AI-driven system for detecting and managing crop diseases using image analysis and environmental data
+- [Team Agro-AId](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects/)
 
-5. **JARVIS Python Assistant** [Post Link](https://www.linkedin.com/posts/abhay-gupta-197b17264_python-programming-virtualassistant-activity-7176592439070121985-7Tbe?utm_source=share&utm_medium=member_desktop)  
-    Repository for creating a virtual assistant named Jarvis using Python. This project involves voice commands, automation tasks, and personalized assistance.
+### 4. **Smart India Hackathon 2023 (SIH): AI Chatbot Justice System**
+- Developed an AI-powered chatbot system to streamline justice delivery and provide quick legal solutions
+- Created for the prestigious Smart India Hackathon 2023
+- [Video Link](https://www.youtube.com/watch?v=sqlD7Oo4Hls)
 
-6. **Helmet Detection Model** [Link](https://huggingface.co/spaces/Abs6187/Helmet-Detect-model)  
-A machine learning model designed to detect whether a person is wearing a helmet in images or video feeds. This project aims to promote safety by leveraging AI to identify compliance with helmet-wearing regulations.
+### 5. **Reducing Urban Food Waste with Smart Management Solutions**
+**Mastek Project DeepBlue Season 10 Hackathon**
+- Solution leverages GenAI, ML, and IoT technologies to monitor food inventory, predict event dates, and facilitate redistribution of surplus food to local charities
+- [Project Link](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects)
 
-7. **EduPath Explorer** [Link](https://huggingface.co/spaces/Abs6187/EduPath_Explorer)  
-An AI-powered smart learning pathfinder that helps users discover personalized educational courses tailored to their goals and interests, with a focus on intuitive design and accurate recommendations.
+## AI & Machine Learning Projects
 
-8. **Movie Recommendation System** [Link](https://huggingface.co/spaces/Abs6187/Movie-Recommendation-System)  
-   A personalized movie recommendation system that uses collaborative filtering and advanced algorithms to suggest movies based on user preferences and viewing history.
+### 6. **Automated Helmet Detection System**[1]
+**Associated with Shri Ram Institute of Technology | Aug 2024 - Dec 2024**
+- Developed automated system for detecting non-helmet riders using YOLOv11 by Ultralytics with OCR for license plate recognition
+- Implemented CCTV-based detection with machine learning integration
+- **Technologies**: Python, OpenCV, CNN, YOLO, Hugging Face, Gradio, OCR, Machine Learning
+- **Resources**: [Published Research Paper](https://example.com) | [Live Demo](https://huggingface.co/spaces/Abs6187/Helmet-Detect-model) | [GitHub Repository](https://github.com/Abs6187/helmet-detection)
 
-9. **Suspicious Activity Detector App** [Link](https://huggingface.co/spaces/Abs6187/Suspicious-Activity-Detector-App)  
-   An AI-powered application to identify suspicious activities in video feeds. This project is aimed at enhancing security by detecting and flagging unusual behaviors in real-time.
-10. **Reducing Urban Food Waste with Smart Management Solutions**  [Link](https://www.linkedin.com/in/abhay-gupta-197b17264/details/projects)
+### 7. **EduPath Explorer**[1]
+**Solo Developer | Education Technology | December 2023**
+- Developed personalized learning path recommendation engine using Analytics Vidhya Platform
+- AI-powered smart learning pathfinder that helps users discover personalized educational courses
+- **Technologies**: Python, OpenAI text-embedding-ada-002, Vector Database, RAG System, Gradio
+- [Live Demo](https://huggingface.co/spaces/Abs6187/EduPath_Explorer)
 
-    Developed for Mastek Project DeepBlue Season 10 Hackathon, this solution leverages GenAI, ML, and IoT technologies to monitor food inventory, predict event dates, and facilitate redistribution of surplus food to local charities.
+### 8. **Movie Recommendation System**
+- Personalized movie recommendation system using collaborative filtering and advanced algorithms
+- Suggests movies based on user preferences and viewing history
+- [Live Demo](https://huggingface.co/spaces/Abs6187/Movie-Recommendation-System)
+
+### 9. **Suspicious Activity Detector App**
+- AI-powered application to identify suspicious activities in video feeds
+- Enhances security by detecting and flagging unusual behaviors in real-time
+- [Live Demo](https://huggingface.co/spaces/Abs6187/Suspicious-Activity-Detector-App)
+
+## Personal Assistant & Automation Projects
+
+### 10. **JARVIS: Advanced Python Assistant**[1]
+**Creator | Personal Project | October 2023**
+- Developed voice-controlled virtual assistant with web searches and personalized news updates
+- Integrated functionalities: setting alarms, checking weather, opening applications, and basic calculations
+- **Technologies**: Python, SpeechRecognition, PyAudio, OpenAI GPT models
+- [LinkedIn Post](https://www.linkedin.com/posts/abhay-gupta-197b17264_python-programming-virtualassistant-activity-7176592439070121985-7Tbe?utm_source=share&utm_medium=member_desktop)
+
+## Technical Content & Research
+
+### 11. **NETFLIX Live Streaming Technology**
+- Comprehensive ARTICLE explaining the technologies and architecture behind live streaming platforms like Hotstar and Netflix
+- [Article Link](https://www.linkedin.com/pulse/how-live-streaming-technology-works-hotstars-52-crores-abhay-gupta-osagf/?trackingId=ux82rdg6SgOcSg8SXa8oew%3D%3D)
+
+### 12. **Coding Ninjas Problems of the Day (POTD)**
+- Curated collection of daily programming problems from Coding Ninjas
+- Aimed at improving problem-solving skills and coding proficiency
+- [Repository Link](https://www.linkedin.com/posts/abhay-gupta-197b17264_ninjaslaygroung-codingninjas-keepcoding-activity-7271234045030621185-oU9I?utm_source=share&utm_medium=member_desktop)
+
+## Project Impact Summary
+
+- **🏆 Competition Wins**: 1st Prize at HackSRIT'25, Top 6 at DTU GDG Hackathon, Top 100 at HackByte 3.0
+- **🚀 Live Deployments**: Multiple projects deployed on Hugging Face Spaces with active user engagement
+- **📚 Research Contributions**: Published research papers and technical articles
+- **💡 Innovation Focus**: AI/ML applications, cybersecurity solutions, and full-stack development
+- **🌐 Real-world Applications**: Projects addressing travel, content moderation, safety, education, and food waste management
 
 ---
 
