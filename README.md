@@ -19,9 +19,10 @@ Welcome to the **Abhay Gupta** repository! This is the central hub for all the p
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue" target="_blank" />
   </a>
 
-<a href="https://linktr.ee/Abhay_Gupta_6187](https://linktr.ee/Abhay_Gupta_6187" target="_blank">
-<img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"/>
- </a>
+<a href="https://linktr.ee/Abhay_Gupta_6187" target="_blank">
+  <img src="https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
   <!--<a href="https://salesp07.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options </a> -->
   
